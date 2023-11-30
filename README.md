@@ -1,2 +1,1 @@
-# Flappy-Bird-Game
-I developed a Flappy Bird Game using HTML, CSS and JS. 
+# Flappy-Bird-Game with JavaScript
